@@ -46,6 +46,10 @@ function App() {
           </div>)
       }
 
+      <footer>
+        Created with 💛 by <a href="http://nirmitcodes.netlify.app">Nirmit</a>
+      </footer>
+
     </div>
   );
 }
